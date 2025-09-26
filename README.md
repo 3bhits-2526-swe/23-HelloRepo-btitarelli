@@ -14,4 +14,6 @@ Lessons Learned:
 + Basic Workflow git <->Github 
 
 
-nochmal geaendert
+     Aenderungen durchgefuehrt
+
+  
